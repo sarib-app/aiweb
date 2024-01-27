@@ -1,0 +1,10 @@
+#about-section {
+    background: rgba(0, 64, 255, 0.1);
+    position: relative;
+    width: 100%;
+}
+
+.sources-box {
+    background-color: aqua;
+    right: auto;
+    }
